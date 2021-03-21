@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Note - username will change when I get around to updating all the links on my site, etc
+Note - username will change when I get around to updating all the links on my site etc, since I don't do that much Source engine modding/mapping anymore.
 
 New username : peter-tanner (github.com/peter-tanner)
 
