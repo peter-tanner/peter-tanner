@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Note - username will change when I get around to updating all the links on my site, etc
+
+New username : peter-tanner (github.com/peter-tanner)
+
 <!--
 **npc-strider/npc-strider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
