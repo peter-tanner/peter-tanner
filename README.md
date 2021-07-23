@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-Note - username will change when I get around to updating all the links on my site etc, since I don't do that much Source engine modding/mapping anymore.
+Studying: EE and compsci
+Editor: Vscode
+Games: Modded Minecraft [Gregtech new horizons], Factorio, Portal, Half-Life series
+Currently Learning: L1 certification, pcb design process in Altium
+Currently working on: migrating crappy old bash scripts I made over to python
 
-New username : peter-tanner (github.com/peter-tanner)
+
+I don't know what else I should put here but it's probably better than just saying "TODO: Write a better description later"
 
 <!--
 **npc-strider/npc-strider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
