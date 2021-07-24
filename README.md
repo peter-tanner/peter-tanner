@@ -1,10 +1,12 @@
 ### Hi there 👋
 
- - Studying: EE and compsci
- - Editor: Vscode
- - Games: Modded Minecraft [Gregtech new horizons], Factorio, Portal, Half-Life series
- - Currently Learning: L1 certification, pcb design process in Altium
- - Currently working on: migrating crappy old bash scripts I made over to python
+ - 📗 Studying: EE and compsci
+ - 💿 Operating system: Windows 10 (Sorry, I'll probably migrate to Linux🐧 some day. For now `msys` and `WSL` will do)
+ - 🖥 Terminal: MinTTY
+ - 📝 Editor: Vscode
+ - 🎮 Games: Modded Minecraft [Gregtech new horizons], Factorio, Portal, Half-Life series
+ - 📘 Currently Learning: L1 certification, pcb design process in Altium
+ - ⛏ Currently working on: migrating crappy old bash scripts I made over to python
 
 I don't know what else I should put here but it's probably better than just saying "TODO: Write a better description later"
 
