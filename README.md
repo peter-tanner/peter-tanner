@@ -14,6 +14,8 @@
 |-|
 | ![Peter's top languages excluding JS,HTML,CSS](https://github-readme-stats.vercel.app/api/top-langs/?username=peter-tanner&layout=compact&hide=javascript,html,css,scss&theme=dark) |
 
+ ![](https://komarev.com/ghpvc/?username=peter-tanner)
+
 I don't know what else I should put here but it's probably better than just saying "TODO: Write a better description later"
 
 <!--
