@@ -8,7 +8,7 @@
  - 💻 Desktop specs: CPU - Intel 8700; GPU - GTX 1060; RAM - 16 G; SSD - 512 G; HDD0 - 2 T; HDD1 - 2 T
  - 🎮 Games: Modded Minecraft [Gregtech new horizons], Factorio, Portal, Half-Life series, Genshin Impact [F2P]
  - 📘 Currently Learning: L1 certification, pcb design process in Altium
- - ⛏ Currently working on: migrating crappy old bash scripts I made over to python
+ - ⛏ Currently working on: coders for causes summer project (Foodbank), managing avionics projects at UWA Aerospace
 
 |![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peter-tanner&show_icons=true&theme=dark&hide_rank=true)|
 |-|
@@ -19,7 +19,7 @@
 I don't know what else I should put here but it's probably better than just saying "TODO: Write a better description later"
 
 <!--
-**npc-strider/npc-strider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**peter-tanner/peter-tanner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
