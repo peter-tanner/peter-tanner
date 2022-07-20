@@ -1,9 +1,10 @@
 <h3 align="center"> Hi there 👋 </h3>
 
  - 📗 Studying electrical engineering and compsci
- - 📘 Currently Learning about: embedded programming, high voltage power supply stuff, hv pcb design
- - 🚀 Avionics project manager at UWA Aerospace
- - ⛏ Currently working on: coders for causes summer project (Foodbank), managing avionics projects at UWA Aerospace (Still learning)
+ - 📘 Currently Learning about: embedded programming
+ - 🔧 Working as a research engineer at UWA System Health Lab
+ - 🚀 Volunteering as avionics project manager at UWA Aerospace
+ - ⛏ Currently working on: web development, EMU 2.0 avionics
 
 <div align="center">
 <img alt="Peter's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=peter-tanner&show_icons=true&theme=dark&hide_rank=true" />
