@@ -1,10 +1,12 @@
 <h3 align="center"> Hi there 👋 </h3>
 
  - 📗 Studying electrical engineering and compsci
- - 📘 Currently Learning about: embedded programming
- - 🔧 Working as a research engineer at UWA System Health Lab
- - 🚀 Volunteering as avionics project manager at UWA Aerospace
- - ⛏ Currently working on: web development, EMU 2.0 avionics
+ - 📘 Currently Learning about: mechanical engineering, gd&t
+ - 🔧 Working as an undergraduate systems engineer at Orexplore Technologies. Research engineer at UWA System Health Lab
+ - 🚀 Volunteering as avionics member at UWA Aerospace, former project manager
+ - ⛏ Currently working on: avionics
+
+Feel free to talk to me on Discord! Peterus#5341
 
 <div align="center">
 <img alt="Peter's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=peter-tanner&show_icons=true&theme=dark&hide_rank=true" />
@@ -19,16 +21,10 @@
 
  - 🖥 Terminal: MinTTY | 🖥 Shell: Bash
  - 📝 Editor: Vscode, Visual Studio 2021
- - ⬜ 3D Modelling: Blender; 📦 3D CAD: SolidWorks 2019
- - ⚡ EDA: Altium Designer, LTspice
+ - ⬜ 3D Modelling: Blender; 📦 3D CAD: SolidWorks 2022, FreeCAD 
+ - ⚡ EDA: Altium Designer 23, LTspice
  - 💻 Desktop specs: CPU - Intel 8700; GPU - GTX 1060; RAM - 16 G; SSD - 512 G; HDD0 - 2 T; HDD1 - 2 T
- - 💿 Operating system: Windows 10 (I'll probably migrate to Linux🐧 some day. For now `msys` and `WSL` will do)
-
-<h3 align="center"> Other stuff about me </h3>
-
- - 🎮 Games: Modded Minecraft [Gregtech new horizons], Factorio, Portal, Half-Life series, Genshin Impact
- - Have modded Minecraft using the Fabric API, built mods for Factorio and was a Source Engine mapper.
- - Space and space-related technology is cool
+ - 💿 Operating system: Windows 10 with WSL, Arch Linux (VM)
  
 
 <!-- I don't know what else I should put here but it's probably better than just saying "TODO: Write a better description later" -->
