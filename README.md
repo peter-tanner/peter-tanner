@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there 👋 </h3>
 
- - 📗 Studying electrical engineering and compsci
+ - 📗 UWA undergraduate 2024 (Electronic engineering, computer science), NTU summer exchange 2023
  - 📘 Currently Learning about: microwave circuits, simulating microwave-frequency (>1GHz) circuits in Ansys HFSS 
  - 🔧 Working as an undergraduate systems engineer at Orexplore Technologies. Research engineer at UWA System Health Lab
  - 🚀 Volunteering as avionics member at UWA Aerospace, former project manager
@@ -19,10 +19,10 @@ Feel free to talk to me on Discord! Peterus#5341
 <!-- <h3 align="center"> Stuff that I use </h3> -->
 <p></p>
 
- - 🖥 Terminal: MinTTY | 🖥 Shell: Bash
  - 📝 Editor: Vscode, Visual Studio 2021
- - ⬜ 3D Modelling: Blender; 📦 3D CAD: SolidWorks 2022, FreeCAD 
+ - ⬜ 3D Modelling: Blender; 📦 3D CAD: SolidWorks 2023, FreeCAD 
  - ⚡ EDA: Altium Designer 23, LTspice, Ansys HFSS
+ - 🔎 Test and measurement equipment: Hitachi VC-6025 oscilloscope, HP 8560A spectrum analyzer, DSLogic logic analyzer. 
  - 💻 Desktop specs: CPU - Intel 8700; GPU - GTX 1060; RAM - 16 G; SSD - 512 G; HDD0 - 2 T; HDD1 - 2 T
  - 💿 Operating system: Windows 10 with WSL, Arch Linux (VM)
  
