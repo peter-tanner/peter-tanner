@@ -6,7 +6,7 @@
 - 📘 Currently Learning about: microwave circuits, simulating microwave-frequency (>1GHz) circuits in Ansys HFSS
 - 🔧 Working as an undergraduate systems engineer at Orexplore Technologies. Research engineer at UWA System Health Lab
 - 🚀 Volunteering as avionics member at UWA Aerospace, former avionics project manager
-- ⛏ Currently working on: STM32WLE5 lora development board with 30 dBm tx power
+- ⛏ Currently working on: Neptunium PCB and pyro drivers - Starcore flight computer successor
 
 Feel free to talk to me on Discord! Peterus#5341
 
