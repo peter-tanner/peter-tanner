@@ -3,12 +3,10 @@
 <img src="./Banner.png">
 
 - 📗 UWA undergraduate 2024 (Electronic engineering, computer science), NTU summer exchange 2023
-- 📘 Currently Learning about: microwave circuits, simulating microwave-frequency (>1GHz) circuits in Ansys HFSS
+- 📘 Currently Learning about: fault-tolerant hardware
 - 🔧 Working as an undergraduate systems engineer at Orexplore Technologies. Research engineer at UWA System Health Lab
 - 🚀 Volunteering as avionics member at UWA Aerospace, avionics project manager
-- ⛏ Currently working on: Neptunium PCB and pyro drivers - Starcore flight computer successor
-
-Feel free to talk to me on Discord! Peterus#5341
+- ⛏ Currently working on: Neptunium flight computer firmware and testing, Honors satellite testing project
 
 <details>
     <summary><b>Tools and frameworks I use! 🧰🔧🔨⚡🔌</b></summary>
