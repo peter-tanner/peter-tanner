@@ -28,7 +28,7 @@
 <div align="center">
 <img alt="Peter's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=peter-tanner&show_icons=true&theme=dark&hide_rank=true" />
 
-<img alt="Peter's top languages excluding JS,HTML,CSS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-tanner&layout=compact&hide=javascript,html,css,scss&theme=dark&langs_count=8" />
+<img alt="Peter's top languages excluding JS,HTML,CSS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-tanner&layout=compact&theme=dark&langs_count=8" />
 
 </div>
 </details>
