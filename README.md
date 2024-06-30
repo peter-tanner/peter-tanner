@@ -4,7 +4,7 @@
 
 - 📗 UWA undergraduate 2024 (Electronic engineering, computer science), NTU summer exchange 2023
 - 📘 Currently Learning about: fault-tolerant hardware
-- 🔧 Working as an undergraduate systems engineer at Orexplore Technologies. Research engineer at UWA System Health Lab
+- 🔧 Looking for software or embedded developer jobs! Contact me at hello@[my_website]
 - 🚀 Volunteering as avionics member at UWA Aerospace, avionics project manager
 - ⛏ Currently working on: Neptunium flight computer firmware and testing, Honors satellite testing project
 
